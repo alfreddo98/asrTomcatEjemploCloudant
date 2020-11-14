@@ -6,7 +6,7 @@ applications:
   memory: 640M
   instances: 1
   host: asrTomcatEjemploCloudant
-  domain: eu-gb.mybluemix.net
+  domain: https://api.us-south.cf.cloud.ibm.com
   #Buildpack de Tomcat 
   buildpack: java_buildpack
   #Buildpack de Liberty
