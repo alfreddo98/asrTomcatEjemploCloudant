@@ -12,7 +12,13 @@
 <p>Opciones <b>CLOUDANT IBM Cloud</b>:</p>
 <ul>
 <li><a href="listar">Listar.</a></li>
-<li><a href="insertar?palabra=hola">Insertar.</a></li>
+<li>
+	<form>
+		<input type="text" name="palabra" value="hola"><br>
+		<input type="submit" value="Submit">
+	</form>
+	
+</li>
 </ul>
 </body>
 </html>
