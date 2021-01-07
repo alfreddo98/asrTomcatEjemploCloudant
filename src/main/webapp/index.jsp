@@ -7,7 +7,7 @@
 <title>Proyecto ASR new...</title>
 </head>
 <body>
-<h1>Ejemplo de Proyecto de ASR con Cloudant ahora con Trabajo Continuo.</h1>
+<h1>Ejemplo de Proyecto de ASR con Cloudant ahora con Trabajo Continuo por Alfredo Sánchez.</h1>
 <hr />
 <p>Opciones <b>CLOUDANT IBM Cloud</b>:</p>
 <ul>
